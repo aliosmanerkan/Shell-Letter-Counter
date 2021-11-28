@@ -7,6 +7,6 @@ in the word; x2 is the total number lowercase letters in the word; x3 is the tot
 of digits in the word; x4 is the total number of other characters in the word.  
  
 As an example, the statistics regarding the word AOE4034 should be 3.0.4.0.  
-If  the  user  does  not  provide  a  filename, then  your  program  should  take  the  input  from 
+If  the  user  does  not  provide  a  filename, then  this script  should  take  the  input  from 
 the  standard  input  (keyboard)  until  the  user  enters  Ctrl-D.    Then  it  should  report  the 
 statistics  of  each  word  at  each  line. 
