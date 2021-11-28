@@ -1,4 +1,4 @@
-# Simple-Bash-Example
+# Simple-Shell-Example
 
 In this script, I implemented a shell script code (named as Q1.sh) to give statistics 
 about each word of a given file. This find each word in a line and report  statistics 
